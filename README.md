@@ -1,0 +1,6 @@
+- 👋 Hi, I’m preparing for placements
+- 🌱 I’m currently learning Node.js, Express.js, MongoDB
+- 💬 Ask me about MERN, Backend
+- 📫 How to reach me pratik.pk39@gmail.com
+- 👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.
+- ⚡ Fun fact Crazy for codin
